@@ -1,0 +1,3 @@
+[submodule "my_test2"]
+	path = my_test2
+	url = https://github.com/4Friends-bentkovska/my_test2.git
